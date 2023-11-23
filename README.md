@@ -4,7 +4,7 @@ Meta repo for MX related projects
 ![](ispyb_structure.png)
 
 
-## Modules
+## Components
 
 | Name | Platform | Repository |
 |----------|-------|-----|
