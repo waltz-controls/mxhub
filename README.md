@@ -8,8 +8,8 @@ Meta repo for MX related projects
 
 | Name | Platform | Repository |
 |----------|-------|-----|
-| ISPyB  | Java |
+| ISPyB  | Java | [GitHub](https://github.com/waltz-controls/mxhub-ispyb)
 | EXI   | JavaScript | [GitHub](https://github.com/waltz-controls/mxhub-exi)
-| Logistics   | Python |
-| MXCuBe   | Python, Tango Controls |
+| Logistics   | Python | [GitHub](https://github.com/waltz-controls/mxhub-logistics)
+| MXCuBe   | Python, Tango Controls | [GitHub](https://github.com/waltz-controls/mxhub-mxcube)
 
